@@ -1,0 +1,18 @@
+@media only screen and (max-width: 530px){
+    nav, .nav2{
+        display: none;
+    }
+    .mobil-s{
+        display: block;
+    }
+    .mobil-s img{
+        width: 20%;
+        margin: 2% 0% 2% 40%;
+    }
+    iframe{
+        margin: 0;
+        margin-left: 6%;
+        width: 420px;
+        height: 210px;
+    }
+}
